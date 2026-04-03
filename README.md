@@ -1,7 +1,8 @@
-🤖 Lead Generation Chatbot (Botpress)
+🤖 Lead Generation Chatbot System (Botpress)
 
 🚀 Overview
 A chatbot built using Botpress to capture user leads by collecting company size and email through a structured conversation flow.
+This project demonstrates business automation using conversational interfaces to qualify and capture leads efficiently.
 
 ✨ Features
 - Interactive chatbot UI
@@ -19,7 +20,7 @@ A chatbot built using Botpress to capture user leads by collecting company size 
 👉 https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/04/03/11/20260403112855-0SZLXS22.json
 
 🎯 Future Improvements
-- AI integration (Groq/OpenAI)
+- AI integration planned for future enjancements 
 - Store leads in database
 
 👨‍💻 Author

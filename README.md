@@ -12,6 +12,9 @@ A chatbot built using Botpress to capture user leads by collecting company size 
 🛠️ Tech Stack
 - Botpress (Cloud)
 
+📸 Screenshots
+![Chatbot UI](Lead%20Generation%20Chatbot%20(Botpress).jpeg)
+
 🔗 Live Demo
 👉 https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/04/03/11/20260403112855-0SZLXS22.json
 
